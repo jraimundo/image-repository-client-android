@@ -1,0 +1,4 @@
+<resources>
+    <string name="button_take_picture">Tirar Foto</string>
+    <string name="button_network_request">Pedido Rede</string>
+</resources>

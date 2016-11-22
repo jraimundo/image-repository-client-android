@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Image Repository Client</string>
+    <string name="button_take_picture">Take Picture</string>
+    <string name="button_network_request">Network Request</string>
+</resources>
