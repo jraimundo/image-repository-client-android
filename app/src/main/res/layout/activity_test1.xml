@@ -6,7 +6,7 @@
     android:id="@+id/activity_test_1"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="client.imagerepository.jrdev.com.imagerepositoryclient.activities.Test1Activity">>
+    tools:context="client.imagerepository.jrdev.com.imagerepositoryclient.activities.Test1Activity">
 
     <ImageView
         android:id="@+id/image_view_picture_taken"

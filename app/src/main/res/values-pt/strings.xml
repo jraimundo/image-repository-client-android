@@ -1,4 +1,5 @@
 <resources>
+    <string name="app_name">Repositório de Imagens</string>
     <string name="button_take_picture">Tirar Foto</string>
     <string name="button_network_request">Pedido Rede</string>
 </resources>
